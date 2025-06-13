@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 4\\tpmodul4_2311104078\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74253CEE-A1B4-497C-8BBA-4132B135013A}|tpmodul4_2311104078\\tpmodul4_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 4\\tpmodul4_2311104078\\tpmodul4_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74253CEE-A1B4-497C-8BBA-4132B135013A}|tpmodul4_2311104078\\tpmodul4_2311104078.csproj|solutionrelative:tpmodul4_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 4\\tpmodul4_2311104078\\tpmodul4_2311104078\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104078\\Program.cs",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 4\\tpmodul4_2311104078\\tpmodul4_2311104078\\Program.cs",
+              "RelativeToolTip": "tpmodul4_2311104078\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:23:22.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
